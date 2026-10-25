@@ -1,0 +1,1 @@
+Committing changes to check how git performs this 3-way merge operation.
