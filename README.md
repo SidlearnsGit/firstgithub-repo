@@ -1,3 +1,3 @@
 # firstgithub-repo
 Here si my first github repository
-Readme.md file is created for Github. file updating foer checking conflicts.
+Adding manually the changes in the file.
